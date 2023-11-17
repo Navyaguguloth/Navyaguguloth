@@ -1,3 +1,4 @@
+
 //1-D Array
 #include<stdio.h>
 void main ()
